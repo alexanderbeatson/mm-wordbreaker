@@ -1,2 +1,2 @@
-# mm-wordbreaker
-Myanmar wordbreaker R version
+# mm-word syllabification
+Myanmar word syllabification R version
